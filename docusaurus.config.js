@@ -70,8 +70,8 @@ const config = {
             label: '이민정보',
           },
           {
-            to: 'https://google.com',
-            label: 'Blog',
+            to: 'https://naver.com',
+            label: '블로그',
             position: 'left'
           },
         ],
@@ -92,8 +92,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: '일상',
-                to: '/blog',
+                label: '블로그',
+                to: 'https://naver.com',
               },
             ],
           },

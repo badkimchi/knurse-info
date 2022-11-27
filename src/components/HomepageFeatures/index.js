@@ -13,7 +13,7 @@ const FeatureList = [
     ),
   },
   {
-    title: '생활 적응',
+    title: '현지 생활',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
