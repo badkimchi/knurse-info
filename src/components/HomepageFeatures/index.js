@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: '이민 절차',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        에이전시 선택, 서류 접수, NCLEX-RN, Visa Screen, Endorsement
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '생활 적응',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        소셜번호, 은행, 자동차, 신용점수, 주거, 세금, 쇼핑
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '커리어',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        병동, 특수부서, NP, 스쿨널스, 널싱홈, 영어공부
       </>
     ),
   },

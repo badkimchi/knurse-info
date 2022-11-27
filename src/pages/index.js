@@ -18,7 +18,7 @@ function HomepageHeader() {
                     <Link
                         className="button button--secondary button--lg"
                         to="/docs/intro">
-                        미국간호사 이민 오버뷰 - 5min ⏱️
+                        이민 정보 바로보기 - 5min ⏱️
                     </Link>
                 </div>
             </div>

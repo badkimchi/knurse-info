@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '미국 간호사로 이민가기',
-  tagline: '이민부터 자리잡기 까지..',
+  title: '간호사로 미국이민가기',
+  tagline: '이민 생활 좌충우돌기...(현재진행형)',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
